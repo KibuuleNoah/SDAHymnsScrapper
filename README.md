@@ -89,4 +89,4 @@ The JSON output (`hymns.json`) will have the following structure:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and use it as needed.
+This project is open-source and available under the [MIT License](https://github.com/KibuuleNoah/SDAHymnsScrapper?tab=MIT-1-ov-file#). Feel free to modify and use it as needed.
